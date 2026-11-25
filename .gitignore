@@ -1,0 +1,36 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.licenses/
+
+# Amber / LEaP & runtime artefacts
+leap.log
+runs/
+analysis/
+*.dcd
+*.nc
+*.xtc
+*.trr
+*.chk
+*.xml
+*.xml.tmp
+*.json.tmp
+*.prmtop
+*.inpcrd
+*.rst7
+*.pdb
+*.mp4
+*.gif
+*.pse
+*.npz
+_MMPBSA_*
+reference.frc
